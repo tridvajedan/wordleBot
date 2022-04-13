@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="wordleBot:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="96d591a6-8e1a-4141-998a-932a0de12028" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
